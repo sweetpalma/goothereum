@@ -1,0 +1,24 @@
+{
+  "name": "goothereum",
+  "version": "1.0.0",
+  "description": "Blockchain in 160 lines of JavaScript.",
+  "author": "SweetPalma",
+  "license": "MIT",
+  "main": "goothereum.js",
+  "scripts": {
+    "test": "node ./test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetpalma/goothereum.git"
+  },
+  "keywords": [
+    "blockchain",
+    "tutorial",
+    "madness"
+  ],
+  "bugs": {
+    "url": "https://github.com/sweetpalma/goothereum/issues"
+  },
+  "homepage": "https://github.com/sweetpalma/goothereum#readme"
+}
